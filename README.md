@@ -1,8 +1,10 @@
 # Deep Reinforcement Learning Papers
-A list of recent papers regarding deep reinforcement learning. <br>
-The papers are organized based on manually-defined bookmarks. <br>
-They are sorted by time to see the recent papers first. <br>
-Any suggestions and pull requests are welcome. 
+
+## TODO
+- [ ] https://spinningup.openai.com/en/latest/spinningup/keypapers.html
+Merge in the above
+add in the classic plicy gradient algorithm etc
+
 
 # Bookmarks
   * [All Papers](#all-papers)
